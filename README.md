@@ -26,4 +26,4 @@ Run Storybook:
 
 4. Test it out by changing the tailwind classes of the button while looking at the primary button story
 
-![Changing the tailwind classes on a svelte button component and watching the color change in Storybook on save]()
+![Changing the tailwind classes on a svelte button component and watching the color change in Storybook on save](./media/hot-reload-demo.gif)
